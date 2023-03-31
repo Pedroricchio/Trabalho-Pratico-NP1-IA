@@ -1907,8 +1907,8 @@ const dragonBalls = [
   },
   {
     coordinates: {
-      x: 0,
-      y: 6,
+      x: 20,
+      y: 26,
     },
     collected: false,
   },
